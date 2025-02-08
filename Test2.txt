@@ -1,2 +1,5 @@
 Sample Text
 123
+
+new line
+new text 123
